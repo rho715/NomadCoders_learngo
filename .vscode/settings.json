@@ -1,0 +1,7 @@
+{
+  "go.testOnSave": true,
+  "editor.formatOnSave": true,
+  "editor.defaultFormatter": "esbenp.prettier-vscode",
+  "go.lintTool": "golint",
+  "go.lintFlags": []
+}
